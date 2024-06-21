@@ -14,7 +14,7 @@ Do not use DarkWeb Phantomto distribute spam, harass others, or engage in any fo
 Respect Discord’s Terms of Service and Community Guidelines at all times.
 Intellectual Property:
 
-DarkWeb Phantom and its associated logos, trademarks, and content are owned by [Your Company/Developer Name]. You may not use them without prior permission.
+DarkWeb Phantom and its associated logos, trademarks, and content are owned by ShadowMods. You may not use them without prior permission.
 Privacy:
 
 We respect your privacy. DarkWeb Phantom does not collect or store personal information beyond what is necessary for its functionality.
@@ -26,7 +26,7 @@ Changes to Terms:
 We reserve the right to update these terms at any time. Continued use of DarkWeb Phantom after changes signifies acceptance of the updated terms.
 Contact Us:
 
-If you have any questions or concerns about these terms, please contact us at [Your Contact Email].
+If you have any questions or concerns about these terms, please contact us at nexus.fusion.hacks@gmail.com.
 By using DarkWeb Phantom, you acknowledge that you have read and agree to these terms of service.
 
 
